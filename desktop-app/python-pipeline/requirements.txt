@@ -13,7 +13,7 @@ resampy>=0.4.0
 
 # AI Models
 # vocal-remover by tsurumeso (install from GitHub)
-git+https://github.com/tsurumeso/vocal-remover.git
+# git+https://github.com/tsurumeso/vocal-remover.git
 
 # BS-RoFormer by lucidrains
 bs-roformer>=0.5.0

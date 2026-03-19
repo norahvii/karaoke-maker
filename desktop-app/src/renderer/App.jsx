@@ -1,4 +1,4 @@
-app_jsx = '''import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
