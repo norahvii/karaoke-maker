@@ -41,6 +41,12 @@ A hackable, locally-hosted karaoke creation tool powered by state-of-the-art AI 
                                        └─────────────────────┘        
 ```
 
+## Desktop App
+![](https://i.postimg.cc/CMP0bGL6/648197227-1479696487189297-6559206008165011105-n.png)
+
+## Mobile App
+![](https://i.postimg.cc/jqgTyHd9/646851059-4211230342465140-6145269301544705132-n.png)
+
 ## Quick Start
 
 ### Prerequisites
@@ -269,8 +275,7 @@ Note: This project uses third-party models with their own licenses. Please respe
 ## Contributing
 
 Contributions welcome! Areas for contribution:
-- New input plugins (Spotify, Apple Music, etc.)
-- Additional AI models
-- UI/UX improvements
-- Mobile app features
-- Documentation
+- Building and testing community plugins
+- Connectivity Testing
+- AI Model testing
+
